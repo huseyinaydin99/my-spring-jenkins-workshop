@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
  *
  * @author Huseyin_Aydin
  * @since 1994
- * @category Java, Spring Boot Jenkins.
+ * @category Java, Spring Boot Jenkins Pipeline.
  *
  */
 
