@@ -22,7 +22,7 @@ public class SpringJenkinsApplication {
 
 	@GetMapping("/selamlar")
 	public String selam() {
-		return "Spring Boot uygulaman deploy edildi! Nassın i misin?";
+		return "Spring Boot uygulaman deploy edildi! Nassın i misin? İ sin i sin!";
 	}
 
 	public static void main(String[] args) {
