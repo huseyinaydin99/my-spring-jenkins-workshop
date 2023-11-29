@@ -21,8 +21,8 @@ public class SpringJenkinsApplication {
 
 
 	@GetMapping("/selamlar")
-	public String message() {
-		return "Spring Boot uygulaman deploy edildi!";
+	public String selam() {
+		return "Spring Boot uygulaman deploy edildi! Nassın i misin?";
 	}
 
 	public static void main(String[] args) {
